@@ -9,8 +9,11 @@ Roles = I did everything myself(Emre Taşkın)
 
 Structure=
 Data-Mining-Project/
+
 ├── dataset
+
 │   ├── face_pred
+
 │   ├── test
 │   └── training
 ├── README.md
