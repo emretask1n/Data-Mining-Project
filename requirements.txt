@@ -1,6 +1,5 @@
-keras
-tensorflow
-matplotlib
-numpy
-python
+keras==2.4.3
+tensorflow==2.4.0
+matplotlib==3.3.2
+numpy==1.19.2
 jupyter notebook
